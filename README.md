@@ -1,4 +1,4 @@
--The days would be all empty
+-The days would all be empty
 - 👋 Hi, I’m @lty-ytl
 - 👀 I’m interested in some intersting things
 - 🌱 I’m currently learning ...
